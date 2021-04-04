@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Gabriele currently working studying for CCNA R&S and CyberOps Associate.
+- 👀 I’m interested to study Python and get Cisco DevNet Associate.
+- 📔 I studied Javascript, HTML5,CSS3 and something with Angular.
+- 💞️ I’m looking to collaborate on some project for beginner.
+- 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/gabriele-di-antonio/) or mail me at (gabrieleitis@hotmail.it)
+- ⚡ Fun fact: I love to learn new things and bug hunting.
